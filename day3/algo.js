@@ -14,7 +14,7 @@ let co2ScrubberData = data;
 
 
 
-function CalculateEplonAndGammaRates() {
+function CalculateEpsilonAndGammaRates() {
     let gammaRate = "";
     let epsilonRate = "";
     for (j=0; j<data[0].length; j++) {
